@@ -1,0 +1,1247 @@
+ToggVorbis_nopic
+v5
+r1
+cCheck dependencies
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/framing.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/codebook.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/block.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/analysis.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitwise.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitrate.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/envelope.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor0.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor1.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/info.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lookup.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lpc.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lsp.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mapping0.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mdct.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/psy.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/registry.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/res0.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/sharedbook.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/smallft.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/synthesis.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisenc.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisfile.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/windowvb.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c normal i386 c com.apple.compilers.llvmgcc42
+cLibtool /Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/liboggVorbis_nopic.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000514296DC00000000000000AA
+t1363318492
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/alloca.h
+c00000000506C506D0000000000000588
+t1349275757
+s1416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/ctype.h
+c00000000506C506D0000000000002C18
+t1349275757
+s11288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/errno.h
+c00000000506C506D00000000000003EB
+t1349275757
+s1003
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/inttypes.h
+c00000000506C506D000000000000231A
+t1349275757
+s8986
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c00000000506C506E00000000000066C2
+t1349275758
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/memory.h
+c00000000506C506E0000000000000765
+t1349275758
+s1893
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c00000000506C506E0000000000004523
+t1349275758
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c00000000506C506E0000000000003089
+t1349275758
+s12425
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/string.h
+c00000000506C506E0000000000001A3A
+t1349275758
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/sys/_types.h
+c00000000506C506E0000000000001845
+t1349275758
+s6213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/sys/types.h
+c00000000506C506E0000000000002795
+t1349275758
+s10133
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c00000000506C506F0000000000003197
+t1349275759
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/ogg/ogg.h
+c00000000514E9E300000000000001DA6
+t1364106800
+s7590
+i"os_types.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/ogg/os_types.h
+c00000000514E9E30000000000000100E
+t1364106800
+s4110
+i<stddef.h>
+i<types.h>
+i<sys/types.h>
+i<_G_config.h>
+i<sys/types.h>
+i<types.h>
+i<inttypes.h>
+i<sys/types.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbis/codec.h
+c00000000514E9E300000000000001F82
+t1364106800
+s8066
+i"../ogg/ogg.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbis/vorbisenc.h
+c00000000514E9E300000000000000A1A
+t1364106800
+s2586
+i"codec.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbis/vorbisfile.h
+c00000000514E9E300000000000001559
+t1364106800
+s5465
+i<stdio.h>
+i"codec.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/backends.h
+c00000000514E9E300000000000001395
+t1364106800
+s5013
+i"codec_internal.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/bitrate.h
+c00000000514E9E300000000000000A9F
+t1364106800
+s2719
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"os.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/books/coupled/res_books_stereo.h
+c00000000514E9E30000000000008CBDF
+t1364106800
+s576479
+i"codebook.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/books/floor/floor_books.h
+c00000000514E9E3000000000000084CA
+t1364106800
+s33994
+i"codebook.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/books/uncoupled/res_books_uncoupled.h
+c00000000514E9E30000000000003DF63
+t1364106800
+s253795
+i"codebook.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/codebook.h
+c00000000514E9E300000000000001771
+t1364106800
+s6001
+i"../ogg/ogg.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/codec_internal.h
+c00000000514E9E300000000000001156
+t1364106800
+s4438
+i"envelope.h"
+i"codebook.h"
+i"psy.h"
+i"bitrate.h"
+i"highlevel.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/envelope.h
+c00000000514E9E30000000000000088A
+t1364106800
+s2186
+i"mdct.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/highlevel.h
+c00000000514E9E30000000000000075F
+t1364106800
+s1887
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/lookup.h
+c00000000514E9E300000000000000525
+t1364106800
+s1317
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/lookup_data.h
+c00000000514E9E3000000000000023C3
+t1364106800
+s9155
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/lpc.h
+c00000000514E9E3000000000000004C5
+t1364106800
+s1221
+i"../vorbis/codec.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/lsp.h
+c00000000514E9E3000000000000004A9
+t1364106800
+s1193
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/masking.h
+c00000000514E9E300000000000009D1B
+t1364106800
+s40219
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/mdct.h
+c00000000514E9E3000000000000007F5
+t1364106800
+s2037
+i"../vorbis/codec.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/misc.h
+c00000000514E9E300000000000000720
+t1364106800
+s1824
+i"../vorbis/codec.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/floor_all.h
+c00000000514E9E300000000000001961
+t1364106800
+s6497
+i"../vorbis/codec.h"
+i"backends.h"
+i"books/floor/floor_books.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/psych_11.h
+c00000000514E9E300000000000000938
+t1364106800
+s2360
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/psych_16.h
+c00000000514E9E300000000000001847
+t1364106800
+s6215
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/psych_44.h
+c00000000514E9E3000000000000061AD
+t1364106800
+s25005
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/psych_8.h
+c00000000514E9E300000000000000FCF
+t1364106800
+s4047
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/residue_16.h
+c00000000514E9E3000000000000012DE
+t1364106800
+s4830
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/residue_44.h
+c00000000514E9E300000000000002250
+t1364106800
+s8784
+i"../vorbis/codec.h"
+i"backends.h"
+i"books/coupled/res_books_stereo.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/residue_44u.h
+c00000000514E9E3000000000000020EC
+t1364106800
+s8428
+i"../vorbis/codec.h"
+i"backends.h"
+i"books/uncoupled/res_books_uncoupled.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/residue_8.h
+c00000000514E9E300000000000000C63
+t1364106800
+s3171
+i"../vorbis/codec.h"
+i"backends.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_11.h
+c00000000514E9E300000000000000A9E
+t1364106800
+s2718
+i"psych_11.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_16.h
+c00000000514E9E300000000000000CA6
+t1364106800
+s3238
+i"psych_16.h"
+i"residue_16.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_22.h
+c00000000514E9E300000000000000B2C
+t1364106800
+s2860
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_32.h
+c00000000514E9E300000000000001441
+t1364106800
+s5185
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_44.h
+c00000000514E9E30000000000000100B
+t1364106800
+s4107
+i"modes/floor_all.h"
+i"modes/residue_44.h"
+i"modes/psych_44.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_44u.h
+c00000000514E9E300000000000000BEC
+t1364106800
+s3052
+i"modes/residue_44u.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_8.h
+c00000000514E9E300000000000000B01
+t1364106800
+s2817
+i"psych_8.h"
+i"residue_8.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/modes/setup_X.h
+c00000000514E9E300000000000001835
+t1364106800
+s6197
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/os.h
+c00000000514E9E300000000000000E5D
+t1364106800
+s3677
+i<math.h>
+i"../ogg/os_types.h"
+i"misc.h"
+i<malloc.h>
+i<alloca.h>
+i<memory.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/psy.h
+c00000000514E9E3000000000000012AA
+t1364106800
+s4778
+i"smallft.h"
+i"backends.h"
+i"envelope.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/registry.h
+c00000000514E9E300000000000000500
+t1364106800
+s1280
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/scales.h
+c00000000514E9E300000000000000AA9
+t1364106800
+s2729
+i<math.h>
+i"os.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/smallft.h
+c00000000514E9E300000000000000509
+t1364106800
+s1289
+i"../vorbis/codec.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/window.h
+c00000000514E9E300000000000000478
+t1364106800
+s1144
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.c
+c00000000514E9E3000000000000050A2
+t1364106800
+s20642
+i<string.h>
+i<stdlib.h>
+i"../ogg/ogg.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c
+c00000000514E9E30000000000000C1B7
+t1364106800
+s49591
+i<stdlib.h>
+i<string.h>
+i"../ogg/ogg.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.c
+c00000000514E9E300000000000000BFE
+t1364106800
+s3070
+i<stdio.h>
+i<string.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"registry.h"
+i"scales.h"
+i"os.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c
+c00000000514E9E3000000000000040A8
+t1364106800
+s16552
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"os.h"
+i"misc.h"
+i"bitrate.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.c
+c00000000514E9E300000000000006ABA
+t1364106800
+s27322
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"window.h"
+i"mdct.h"
+i"lpc.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.c
+c00000000514E9E300000000000004065
+t1364106800
+s16485
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codebook.h"
+i"scales.h"
+i"misc.h"
+i"os.h"
+i<stdio.h>
+i"vorbis/book/lsp20_0.vqh"
+i"vorbis/book/res0a_13.vqh"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c
+c00000000514E9E3000000000000028D6
+t1364106800
+s10454
+i<stdlib.h>
+i<string.h>
+i<stdio.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"os.h"
+i"scales.h"
+i"envelope.h"
+i"mdct.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c
+c00000000514E9E3000000000000019FD
+t1364106800
+s6653
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"registry.h"
+i"lpc.h"
+i"lsp.h"
+i"codebook.h"
+i"scales.h"
+i"misc.h"
+i"os.h"
+i"misc.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c
+c00000000514E9E300000000000006FD1
+t1364106800
+s28625
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"scales.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.c
+c00000000514E9E3000000000000042E2
+t1364106800
+s17122
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"codebook.h"
+i"registry.h"
+i"window.h"
+i"psy.h"
+i"misc.h"
+i"os.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c
+c00000000514E9E300000000000000CE0
+t1364106800
+s3296
+i<math.h>
+i"lookup.h"
+i"lookup_data.h"
+i"os.h"
+i"misc.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.c
+c00000000514E9E3000000000000010CE
+t1364106800
+s4302
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"os.h"
+i"smallft.h"
+i"lpc.h"
+i"scales.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.c
+c00000000514E9E30000000000000303C
+t1364106800
+s12348
+i<math.h>
+i<string.h>
+i<stdlib.h>
+i"lsp.h"
+i"os.h"
+i"misc.h"
+i"lookup.h"
+i"scales.h"
+i"lookup.c"
+i"lookup.c"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c
+c00000000514E9E300000000000005BEE
+t1364106800
+s23534
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"codebook.h"
+i"window.h"
+i"registry.h"
+i"psy.h"
+i"misc.h"
+i"os.h"
+i"lpc.h"
+i"lsp.h"
+i"envelope.h"
+i"mdct.h"
+i"psy.h"
+i"scales.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.c
+c00000000514E9E300000000000003962
+t1364106800
+s14690
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"../vorbis/codec.h"
+i"mdct.h"
+i"os.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.c
+c00000000514E9E3000000000000075E1
+t1364106800
+s30177
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"masking.h"
+i"psy.h"
+i"os.h"
+i"lpc.h"
+i"smallft.h"
+i"scales.h"
+i"misc.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c
+c00000000514E9E3000000000000006ED
+t1364106800
+s1773
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c
+c00000000514E9E300000000000005AA5
+t1364106800
+s23205
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"os.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.c
+c00000000514E9E300000000000004D15
+t1364106800
+s19733
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"../ogg/ogg.h"
+i"os.h"
+i"misc.h"
+i"../vorbis/codec.h"
+i"codebook.h"
+i"scales.h"
+i<stdio.h>
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.c
+c00000000514E9E3000000000000056B6
+t1364106800
+s22198
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"smallft.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c
+c00000000514E9E300000000000001341
+t1364106800
+s4929
+i<stdio.h>
+i"../ogg/ogg.h"
+i"../vorbis/codec.h"
+i"codec_internal.h"
+i"registry.h"
+i"misc.h"
+i"os.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c
+c00000000514E9E300000000000007D48
+t1364106800
+s32072
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"../vorbis/codec.h"
+i"../vorbis/vorbisenc.h"
+i"codec_internal.h"
+i"os.h"
+i"misc.h"
+i"modes/setup_44.h"
+i"modes/setup_44u.h"
+i"modes/setup_32.h"
+i"modes/setup_8.h"
+i"modes/setup_11.h"
+i"modes/setup_16.h"
+i"modes/setup_22.h"
+i"modes/setup_X.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c
+c00000000514E9E30000000000000E0FA
+t1364106800
+s57594
+i<stdlib.h>
+i<stdio.h>
+i<errno.h>
+i<string.h>
+i<math.h>
+i"../vorbis/codec.h"
+i"../vorbis/vorbisfile.h"
+i"os.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c
+c00000000514E9E30000000000001FE69
+t1364106800
+s130665
+i<stdlib.h>
+i<math.h>
+i"os.h"
+i"misc.h"
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/liboggVorbis_nopic.a
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/analysis.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitrate.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitwise.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/block.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/codebook.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/envelope.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor0.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor1.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/framing.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/info.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lookup.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lpc.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lsp.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mapping0.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mdct.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/oggVorbis_nopic.LinkFileList
+c00000000514E9F3B0000000000000B1E
+t1364107067
+s2846
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/psy.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/registry.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/res0.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/sharedbook.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/smallft.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/synthesis.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisenc.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisfile.o
+t2
+s0
+
+N/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/windowvb.o
+t2
+s0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c
+r0
+
+CBuild AST from /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesaf406cbbd6feb641^5b4193bbd6feb641^---0#1#0#--18"Check dependencies36"30A95B30-670D-4683-B25A-8B419FFFE876-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/analysis.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.584597
+e385799867.699861
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/analysis.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.ceb0296bbd6feb641^5a2ab3bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.c0000000000000000^1274"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/analysis.o ../../sound/OggVorbis/vorbissrc/analysis.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/analysis.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/analysis.o36"2D025162-1AF0-4D61-AB3B-FC03CCF90DD2-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitrate.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.584601
+e385799867.721594
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitrate.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c920396bbd6feb641^90bbb8bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c0000000000000000^1270"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitrate.o ../../sound/OggVorbis/vorbissrc/bitrate.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/bitrate.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitrate.o36"5430BF6F-D3EE-403B-ABE2-CABFA8857382-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitwise.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.584600
+e385799867.704326
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitwise.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.cee0596bbd6feb641^af5bb4bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.c0000000000000000^1264"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitwise.o ../../sound/OggVorbis/oggsrc/bitwise.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/bitwise.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/bitwise.o36"F2DC4C10-29DF-47B7-AE72-F0342BC6DA21-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/block.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.584566
+e385799867.740074
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/block.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.ca70296bbd6feb641^677ebdbbd6feb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.c0000000000000000^1262"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/block.o ../../sound/OggVorbis/vorbissrc/block.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/block.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/block.o36"B9FA7050-F47A-486C-A0D3-D72B1278F2C2-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/codebook.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.584590
+e385799867.702856
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/codebook.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.cab0596bbd6feb641^40f9b3bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.c0000000000000000^1274"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/codebook.o ../../sound/OggVorbis/vorbissrc/codebook.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/codebook.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/codebook.o36"03D48B55-11F3-414E-BB74-DF7065B7B8F4-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/envelope.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.586220
+e385799867.705658
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/envelope.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c6b2b96bbd6feb641^36adb4bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c0000000000000000^1274"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/envelope.o ../../sound/OggVorbis/vorbissrc/envelope.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/envelope.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/envelope.o36"7D700AF6-1AD0-4DCD-9862-A37F3E31654F-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor0.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.587342
+e385799867.697322
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor0.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c227296bbd6feb641^3d9ab2bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c0000000000000000^1266"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor0.o ../../sound/OggVorbis/vorbissrc/floor0.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor0.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor0.o36"FCE25255-6338-46DF-8D54-1560BABA09BF-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor1.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.699373
+e385799867.827535
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor1.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c: In function 'accumulate_fit':
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c:416: warning: unused variable 'quantized'
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c: In function 'floor1_encode':
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c:765: warning: unused variable 'n'
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c: At top level:
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c:594: warning: 'seq' defined but not used
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c9f22b3bbd6feb641^00e5d3bbd6feb641^-673"/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c: In function 'accumulate_fit':/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c:416: warning: unused variable 'quantized'/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c: In function 'floor1_encode':/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c:765: warning: unused variable 'n'/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c: At top level:/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c:594: warning: 'seq' defined but not used4(21%IDEActivityLogMessage2@27"Unused variable 'quantized'-385799867#111#122#-1#-23%DVTTextDocumentLocation3@81"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/floor1.c0000000000000000^415#18446744073709551615#415#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@19"Unused variable 'n'-385799867#343#114#-1#-3@81"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/floor1.c0000000000000000^764#18446744073709551615#764#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--32%IDEActivityLogContextInfoMessage4@13"At top level:-385799867#457#95#-0#-3@81"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/floor1.c0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@26"'seq' defined but not used-385799867#552#121#-1#-3@81"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/floor1.c0000000000000000^593#18446744073709551615#593#18446744073709551615#18446744073709551615#0#24"'*' defined but not used--0#0#0#-19%DVTDocumentLocation5@95"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c0000000000000000^1266"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor1.o ../../sound/OggVorbis/vorbissrc/floor1.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/floor1.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/floor1.o36"F44C65CD-AC6E-4097-8589-14AC913782DE-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/framing.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.584560
+e385799867.720803
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/framing.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c290496bbd6feb641^008fb8bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c0000000000000000^1264"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/framing.o ../../sound/OggVorbis/oggsrc/framing.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/oggsrc/framing.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/framing.o36"29864C1B-6B7B-4EAF-A773-8710743DAB31-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/info.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.701311
+e385799867.827671
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/info.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.cc2a1b3bbd6feb641^65e1d3bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.c0000000000000000^1258"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/info.o ../../sound/OggVorbis/vorbissrc/info.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/info.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/info.o36"EA1F8CC8-F45C-4A4D-945C-BED6DA999FE1-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lookup.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.704190
+e385799867.754030
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lookup.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup_data.h:101: warning: 'FROMdB_LOOKUP' defined but not used
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup_data.h:113: warning: 'FROMdB2_LOOKUP' defined but not used
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c8461b4bbd6feb641^eb1ac1bbd6feb641^-273"/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup_data.h:101: warning: 'FROMdB_LOOKUP' defined but not used/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup_data.h:113: warning: 'FROMdB2_LOOKUP' defined but not used2(21%IDEActivityLogMessage2@36"'FROMdB_LOOKUP' defined but not used-385799867#0#136#-1#-23%DVTTextDocumentLocation3@86"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/lookup_data.h0000000000000000^100#18446744073709551615#100#18446744073709551615#18446744073709551615#0#24"'*' defined but not used--2@37"'FROMdB2_LOOKUP' defined but not used-385799867#136#137#-1#-3@86"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/lookup_data.h0000000000000000^112#18446744073709551615#112#18446744073709551615#18446744073709551615#0#24"'*' defined but not used--0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c0000000000000000^1266"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lookup.o ../../sound/OggVorbis/vorbissrc/lookup.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lookup.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lookup.o36"5803E4D0-5564-4771-97B6-979D5663893B-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lpc.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.705544
+e385799867.767693
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lpc.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.cb7b2b4bbd6feb641^ba87c4bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.c0000000000000000^1254"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lpc.o ../../sound/OggVorbis/vorbissrc/lpc.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lpc.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lpc.o36"EBD1C99E-67AD-4FD4-AF5C-BFE6545732D6-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lsp.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.707017
+e385799867.825980
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lsp.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.cb01cb5bbd6feb641^b988d3bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.c0000000000000000^1254"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lsp.o ../../sound/OggVorbis/vorbissrc/lsp.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/lsp.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/lsp.o36"40FC6DA7-5EEE-4481-9682-CECCCCD9F48E-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mapping0.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.722776
+e385799867.829297
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mapping0.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c: In function 'mapping0_inverse':
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c:657: warning: unused variable 'hs'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c1c23b9bbd6feb641^9d4cd4bbd6feb641^-232"/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c: In function 'mapping0_inverse':/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c:657: warning: unused variable 'hs'1(21%IDEActivityLogMessage2@20"Unused variable 'hs'-385799867#115#117#-1#-23%DVTTextDocumentLocation3@83"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/mapping0.c0000000000000000^656#18446744073709551615#656#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c0000000000000000^1274"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mapping0.o ../../sound/OggVorbis/vorbissrc/mapping0.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mapping0.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mapping0.o36"5E9DD987-F04A-433F-B195-8A04BBBC24F1-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mdct.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.723019
+e385799867.826032
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mdct.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.ce82eb9bbd6feb641^058bd3bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.c0000000000000000^1258"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mdct.o ../../sound/OggVorbis/vorbissrc/mdct.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/mdct.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/mdct.o36"AA1F024E-C9D7-4F46-B42E-234FC3DC525E-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/psy.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.741357
+e385799867.937974
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/psy.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.ceae7bdbbd6feb641^db32f4bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.c0000000000000000^1254"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/psy.o ../../sound/OggVorbis/vorbissrc/psy.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/psy.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/psy.o36"98CEB680-A203-4D7F-8233-678FEA8C1B7B-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/registry.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.755323
+e385799867.825787
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/registry.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c6876c1bbd6feb641^a27ed3bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c0000000000000000^1274"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/registry.o ../../sound/OggVorbis/vorbissrc/registry.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/registry.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/registry.o36"EE3AA2F4-3DE8-4884-8E3A-16BEDCCCB60D-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/res0.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.768996
+e385799867.889036
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/res0.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c: In function '_01class':
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c:372: warning: unused variable 'ci'
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c: In function '_01forward':
+o/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c:499: warning: unused variable 'vd'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.cadf6c4bbd6feb641^8598e3bbd6feb641^-434"/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c: In function '_01class':/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c:372: warning: unused variable 'ci'/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c: In function '_01forward':/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c:499: warning: unused variable 'vd'2(21%IDEActivityLogMessage2@20"Unused variable 'ci'-385799867#103#113#-1#-23%DVTTextDocumentLocation3@79"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/res0.c0000000000000000^371#18446744073709551615#371#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@20"Unused variable 'vd'-385799867#321#113#-1#-3@79"file://localhost/Users/gerickson/Dev/Doom3/neo/sound/OggVorbis/vorbissrc/res0.c0000000000000000^498#18446744073709551615#498#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c0000000000000000^1258"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/res0.o ../../sound/OggVorbis/vorbissrc/res0.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/res0.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/res0.o36"318BE138-FB36-4ED7-ACB1-E43F76B562EC-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/sharedbook.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.827021
+e385799867.921855
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/sharedbook.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.cbccdd3bbd6feb641^5e2cf4bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.c0000000000000000^1282"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/sharedbook.o ../../sound/OggVorbis/vorbissrc/sharedbook.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/sharedbook.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/sharedbook.o36"64E4340F-35E3-4AD0-9B6E-A1B41227FBCF-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/smallft.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.827042
+e385799867.928771
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/smallft.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.cf6cfd3bbd6feb641^2731f4bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.c0000000000000000^1270"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/smallft.o ../../sound/OggVorbis/vorbissrc/smallft.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/smallft.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/smallft.o36"65C3ABEB-C358-4EF5-9392-E3602A7FC04B-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/synthesis.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.827418
+e385799867.898465
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/synthesis.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c36e8d3bbd6feb641^7905e6bbd6feb641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c0000000000000000^1278"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/synthesis.o ../../sound/OggVorbis/vorbissrc/synthesis.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/synthesis.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/synthesis.o36"EA821004-5779-4F01-A906-037BD3A90BE2-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisenc.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.828736
+e385799869.011561
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisenc.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c603fd4bbd6feb641^250803bdd6feb641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c0000000000000000^1278"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisenc.o ../../sound/OggVorbis/vorbissrc/vorbisenc.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisenc.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisenc.o36"BE92E750-E333-49FA-8359-532C25B83BED-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisfile.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.828741
+e385799868.032322
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisfile.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c703fd4bbd6feb641^dac88dbcd6feb641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c0000000000000000^1282"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisfile.o ../../sound/OggVorbis/vorbissrc/vorbisfile.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/vorbisfile.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/vorbisfile.o36"1A5A20C0-2739-4ADD-A403-1CF19281671A-
+
+CCompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/windowvb.o /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c normal i386 c com.apple.compilers.llvmgcc42
+s385799867.830455
+e385799867.956316
+r1
+xCompileC
+xbuild/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/windowvb.o
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c13b5d4bbd6feb641^9ab08dbcd6feb641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c0000000000000000^1274"CompileC build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/windowvb.o ../../sound/OggVorbis/vorbissrc/windowvb.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/oggVorbis_nopic.hmap -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/include -I../../sound/OggVorbis/vorbissrc -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources/i386 -I/Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/DerivedSources -F/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -c /Users/gerickson/Dev/Doom3/neo/sys/osx/../../sound/OggVorbis/vorbissrc/windowvb.c -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/windowvb.o36"1A5FCFB2-613A-4238-BF45-12FB9F311957-
+
+CLibtool /Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/liboggVorbis_nopic.a normal i386
+s385799869.080516
+e385799869.114933
+r1
+xLibtool
+x/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/liboggVorbis_nopic.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Libtool build/Debug/liboggVorbis_nopic.a normal i3866cb414bdd6feb641^616c1dbdd6feb641^---0#0#0#--650"Libtool build/Debug/liboggVorbis_nopic.a normal i386    cd /Users/gerickson/Dev/Doom3/neo/sys/osx    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug -filelist /Users/gerickson/Dev/Doom3/neo/sys/osx/build/oggVorbis.build/Debug/oggVorbis_nopic.build/Objects-normal/i386/oggVorbis_nopic.LinkFileList -o /Users/gerickson/Dev/Doom3/neo/sys/osx/build/Debug/liboggVorbis_nopic.a36"9630BE74-8DF5-4531-BD43-EDFA417EB5CF-
+
